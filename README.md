@@ -1,4 +1,4 @@
-<img src="Sin título(1).jpg" width="50"/>
+<img src="Sin título(1).jpg"/>
 
 Bienvenido al código fuente de Ethan 
 
