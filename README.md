@@ -1,4 +1,4 @@
-<img src="Sin título(1).jpg" width="400"/>
+<img src="banner.jpg" />
 
 ## Bienvenido al código fuente de Ethan 👋
 ---
