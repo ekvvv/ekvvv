@@ -1,4 +1,6 @@
- Bienvenido al código fuente de Ethan 
+<img src="Sin título(1).jpg" width="50"/>
+
+Bienvenido al código fuente de Ethan 
 
 &lt;!-- 👋 Bienvenido al código fuente de Ethan --&gt;
 
@@ -30,5 +32,3 @@
     &lt;tools&gt;VSCode, Git &lt;/tools&gt;
     <br>
 &lt;/developer&gt;
-
-<img src="banner.jpg" width="50"/>
