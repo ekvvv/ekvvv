@@ -1,8 +1,6 @@
 <img src="Sin título(1).jpg" width="400"/>
 
-## Bienvenido al código fuente de Ethan 
-
-&lt;!-- 👋 Bienvenido al código fuente de Ethan --&gt;
+## Bienvenido al código fuente de Ethan 👋
 
 &lt;developer&gt;
   &lt;name&gt;Ethan&lt;/name&gt;
@@ -31,5 +29,4 @@
 
  ## TOOLS
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
-    <br>
-&lt;/developer&gt;
+    
