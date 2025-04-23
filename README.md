@@ -1,25 +1,18 @@
 <img src="Sin título(1).jpg" width="400"/>
 
 ## Bienvenido al código fuente de Ethan 👋
+---
+### 📌 Sobre mí  
+Soy Ethan, un estudiante de 17 años apasionado por la tecnología, la ciencia y el desarrollo web. Actualmente estoy trabajando en varios proyectos, incluyendo un simulador de física en Python con interfaz gráfica y un sitio web profesional para mi marca de cepillos ecológicos **Copple**.  
 
- &lt;name&gt;Ethan&lt;/name&gt;
-  <br>
- &lt;age&gt;17 años&lt;/age&gt;
-  <br>
-  &lt;location&gt;Uruguay&lt;/location&gt;
-  <br>
-  &lt;interests&gt;
-  <br>
-    &lt;item&gt;Web Dev&lt;/item&gt;
-    <br>
-    &lt;item&gt;Python Projects&lt;/item&gt;
-    <br>
-    &lt;item&gt;Diseño con propósito&lt;/item&gt;
-    <br>
-  &lt;/interests&gt;
-  <br>
-  &lt;currentProject&gt;🌱 Sitio web para Copple (marca de cepillos)&lt;/currentProject&gt;
-  <br>
+🤝 Me encanta colaborar en proyectos creativos y con propósito.  
+
+🧠 Preguntame lo que quieras — siempre estoy dispuesto a ayudar o aprender algo nuevo.  
+
+🌱 Fuera del mundo tech, disfruto:  
+- 🎧 Escuchar música  
+- 📝 Trabajar en ideas para Copple 
+
   ## SKILLS FRONT END
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
