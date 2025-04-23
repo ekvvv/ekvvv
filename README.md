@@ -2,21 +2,23 @@ Bienvenido al código fuente de Ethan
 
 
 <img src="banner.jpg" width="50"/>
-##<developer>
-  <name>Ethan</name>
-  <age>16 años</age>
-  <location>Uruguay</location>
-  <interests>
-    <item>Web Dev</item>
-    <item>Python Projects</item>
-    <item>Diseño con propósito</item>
-  </interests>
-  <currentProject>🌱 Sitio web para Copple (marca de cepillos)</currentProject>
-  <skills>
-    <frontend>HTML, CSS, JavaScript</frontend>
-    <backend>Python</backend>
-    <tools>VSCode, Git, Canva</tools>
-  </skills>
-  <funFact>Construyo con F y edito más rápido que la luz en Fortnite ⚡</funFact>
-</developer>
+&lt;!-- 👋 Bienvenido al código fuente de Ethan --&gt;
+
+&lt;developer&gt;
+  &lt;name&gt;Ethan&lt;/name&gt;
+  &lt;age&gt;17 años&lt;/age&gt;
+  &lt;location&gt;Uruguay&lt;/location&gt;
+  &lt;interests&gt;
+    &lt;item&gt;Web Dev&lt;/item&gt;
+    &lt;item&gt;Python Projects&lt;/item&gt;
+    &lt;item&gt;Diseño con propósito&lt;/item&gt;
+  &lt;/interests&gt;
+  &lt;currentProject&gt;🌱 Sitio web para Copple (marca de cepillos)&lt;/currentProject&gt;
+  &lt;skills&gt;
+    &lt;frontend&gt;HTML, CSS, JavaScript&lt;/frontend&gt;
+    &lt;backend&gt;Python&lt;/backend&gt;
+    &lt;tools&gt;VSCode, Git, Canva&lt;/tools&gt;
+  &lt;/skills&gt;
+  &lt;funFact&gt;Construyo con F y edito más rápido que la luz en Fortnite ⚡&lt;/funFact&gt;
+&lt;/developer&gt;
 
