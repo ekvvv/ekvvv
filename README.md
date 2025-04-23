@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Bienvenido al código fuente de Ethan
 
-<!--
-**ekvvv/ekvvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<developer>
+  <name>Ethan</name>
+  <age>16 años</age>
+  <location>Uruguay</location>
+  <interests>
+    <item>Web Dev</item>
+    <item>Python Projects</item>
+    <item>Física + Código</item>
+    <item>Diseño con propósito</item>
+  </interests>
+  <currentProject>🌱 Sitio web para Copple (marca de cepillos)</currentProject>
+  <skills>
+    <frontend>HTML, CSS, JavaScript</frontend>
+    <backend>Python</backend>
+    <tools>VSCode, Git, Canva</tools>
+  </skills>
+  <funFact>Construyo con F y edito más rápido que la luz en Fortnite ⚡</funFact>
+</developer>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
