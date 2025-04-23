@@ -1,4 +1,4 @@
-<img src="banner.jpg" />
+<img src="kime.jpg" />
 
 ## Bienvenido al código fuente de Ethan 👋
 ---
