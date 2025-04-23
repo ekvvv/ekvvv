@@ -7,7 +7,6 @@
   <interests>
     <item>Web Dev</item>
     <item>Python Projects</item>
-    <item>Física + Código</item>
     <item>Diseño con propósito</item>
   </interests>
   <currentProject>🌱 Sitio web para Copple (marca de cepillos)</currentProject>
