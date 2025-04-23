@@ -1,7 +1,5 @@
-Bienvenido al código fuente de Ethan
+Bienvenido al código fuente de Ethan <img src="banner.jpg" width="120"/>
 
-
-<img src="banner.jpg" width="120"/>
 &lt;!-- 👋 Bienvenido al código fuente de Ethan --&gt;
 
 &lt;developer&gt;
