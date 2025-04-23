@@ -1,4 +1,4 @@
-Bienvenido al código fuente de Ethan <img src="banner.jpg" width="50"/>
+<img src="banner.jpg" width="50"/> Bienvenido al código fuente de Ethan 
 
 &lt;!-- 👋 Bienvenido al código fuente de Ethan --&gt;
 
