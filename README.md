@@ -10,17 +10,26 @@ Bienvenido al código fuente de Ethan
   &lt;age&gt;17 años&lt;/age&gt;
   <br>
   &lt;location&gt;Uruguay&lt;/location&gt;
+  <br>
   &lt;interests&gt;
+  <br>
     &lt;item&gt;Web Dev&lt;/item&gt;
+    <br>
     &lt;item&gt;Python Projects&lt;/item&gt;
+    <br>
     &lt;item&gt;Diseño con propósito&lt;/item&gt;
+    <br>
   &lt;/interests&gt;
+  <br>
   &lt;currentProject&gt;🌱 Sitio web para Copple (marca de cepillos)&lt;/currentProject&gt;
+  <br>
   &lt;skills&gt;
+  <br>
     &lt;frontend&gt;HTML, CSS, JavaScript&lt;/frontend&gt;
+    <br>
     &lt;backend&gt;Python&lt;/backend&gt;
-    &lt;tools&gt;VSCode, Git, Canva&lt;/tools&gt;
-  &lt;/skills&gt;
-  &lt;funFact&gt;Construyo con F y edito más rápido que la luz en Fortnite ⚡&lt;/funFact&gt;
+    <br>
+    &lt;tools&gt;VSCode, Git &lt;/tools&gt;
+    <br>
 &lt;/developer&gt;
 
