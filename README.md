@@ -6,7 +6,9 @@ Bienvenido al código fuente de Ethan
 
 &lt;developer&gt;
   &lt;name&gt;Ethan&lt;/name&gt;
+  <br>
   &lt;age&gt;17 años&lt;/age&gt;
+  <br>
   &lt;location&gt;Uruguay&lt;/location&gt;
   &lt;interests&gt;
     &lt;item&gt;Web Dev&lt;/item&gt;
