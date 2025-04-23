@@ -1,4 +1,4 @@
-<img src="banner.jpg" width="50"/> Bienvenido al código fuente de Ethan 
+ Bienvenido al código fuente de Ethan 
 
 &lt;!-- 👋 Bienvenido al código fuente de Ethan --&gt;
 
@@ -31,3 +31,4 @@
     <br>
 &lt;/developer&gt;
 
+<img src="banner.jpg" width="50"/>
