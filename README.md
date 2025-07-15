@@ -3,7 +3,7 @@
 ## Bienvenido al código fuente de Ethan 👋
 ---
 ### 📌 Sobre mí  
-Soy Ethan, un estudiante de 17 años apasionado por la tecnología, la ciencia y el desarrollo web. Actualmente estoy trabajando en varios proyectos, incluyendo un simulador de física en Python con interfaz gráfica y un sitio web profesional para mi marca de cepillos ecológicos **Copple**.  
+Soy Ethan, un estudiante de 17 años me gusta la fisica y el desarrollo web. Actualmente estoy trabajando en varios proyectos, incluyendo mi proyecto final de clases y un sitio web profesional para mi marca de cepillos ecológicos **Copple**.  
 
 🤝 Me encanta colaborar en proyectos creativos y con propósito.  
 
