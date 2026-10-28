@@ -3,7 +3,7 @@
 ## Bienvenido al código fuente de Ethan 👋
 ---
 ### 📌 Sobre mí  
-Soy Ethan, un estudiante de 17 años me gusta la fisica y el desarrollo web. Actualmente estoy trabajando en varios proyectos, incluyendo mi proyecto final de clases y un sitio web profesional para mi marca de cepillos ecológicos **Copple**.  
+Soy Ethan, un estudiante de 18 años de ingenieria, el desarrollo web y el desarrollo de aplicaciones. Actualmente estoy trabajando en varios proyectos, un sitio web profesional para una marca de cepillos ecológicos **Copple**, tambien desarollando un programa llamado **TallerFlow**.  
 
 🤝 Me encanta colaborar en proyectos creativos y con propósito.  
 
@@ -11,7 +11,7 @@ Soy Ethan, un estudiante de 17 años me gusta la fisica y el desarrollo web. Act
 
 🌱 Fuera del mundo tech, disfruto:  
 - 🎧 Escuchar música  
-- 📝 Trabajar en ideas para Copple 
+- 📝 Trabajar en ideas para **TallerFlow** 
 
 ## 🎨|| SKILLS FRONT END
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
